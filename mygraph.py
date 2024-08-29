@@ -5,6 +5,8 @@ x = np.linspace(0, 20, 100)
 plt.plot(x, np.sin(x))
 plt.show()
 
+print("Hello there!")
+
 #1 create a virtual enviroment to isolate use of packages: py -3 -m venv _______
 #2 activate your virtual enviroment: .\myvenv\Scripts\activate (directory location)
 #3 install 3rd party library: pip3 install _______
